@@ -1,0 +1,2 @@
+Paises = {"España" : ["Panamá", "Población 46.94 M", "PIB 1.419 B"], "Panamá" : ["Panamá", "Población 4.177 M", "PIB 65.06 MM"], "Estados Unidos" : ["Washington", "Población 328.2", "PIB 20.54 B"], "Argentina" : ["Buenos Aires", "Población 44.49 M", "PIB 519.9 MM"], "Brasil" : ["Brasilia", "Población 209.5 M", "PIB 1.869 B"]}
+print(Paises)
